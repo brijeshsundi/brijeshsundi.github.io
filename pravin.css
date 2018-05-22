@@ -1,0 +1,20 @@
+body{
+	background-size: cover;
+	background-image: url(matthieu-a-262686-unsplash.jpg);
+}
+.container1{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+img{
+  height: 350px;
+  width: 550px;
+  margin: 20px;
+  transition: all 1s
+}
+
+img:hover{
+  transform: scale(1.1);
+}

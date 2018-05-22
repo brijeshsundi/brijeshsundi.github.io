@@ -1,0 +1,7 @@
+body{
+	background-image: url(about.jpg);
+	background-size: cover;
+}
+p,h1{
+	color: white;
+}
