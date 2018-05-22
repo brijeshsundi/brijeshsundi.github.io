@@ -63,6 +63,9 @@ footer.card-body{
     color: white;
     text-align: left;
 }
+p.contact{
+  font-family: 'Sunflower', sans-serif;
+}
 .fa{
     padding: 10px 24px;
     font-size: 25px;
