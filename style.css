@@ -1,0 +1,95 @@
+body{
+	background-image: url(back2.jpg);
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	overflow-x: hidden;
+}
+#navbar{
+	transition: 
+}
+#div{
+	display: inline-block;
+}
+.carousel {
+	display: flex;
+	justify-content: center;
+	width: 1366px;
+  	height:400px;
+}
+@media only screen and (min-width : 1200px) {
+  .carousel-caption
+  {
+    top: 33%;
+  }
+}
+p{
+	font-size: 150%;
+	font-family: 'Courgette', cursive;
+}
+.center-block {
+  margin: auto;
+  display: block;
+}
+#hole{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 50px;
+}
+.container{
+	display: flex;
+}
+
+.whole{
+	display: flex;
+	justify-content: center;
+	margin-right: 16px;
+	margin-top: 100px;
+  	margin-bottom: 30px;
+}
+blockquote{
+	color: white;
+	margin-top: 20px;
+}
+.text-center{
+    background-color: #0B122A;
+}
+.bottom{
+    color: white;
+    display: flex;
+    padding-left: 40px;
+}
+footer.card-body{
+    color: white;
+    text-align: left;
+}
+.fa{
+    padding: 10px 24px;
+    font-size: 25px;
+    border-radius: 50%;
+    transition: all;
+}
+.fa:hover{
+    transform: scale(1.1);
+}
+.fa-facebook-official {
+    color: #3B5998;
+    
+}
+.fa-google-plus-official{
+    color: #AD0505;
+    
+}
+.fa-youtube-play{
+    color: #E40000;
+}
+
+/* Twitter */
+.fa-twitter {
+    color: #55ACEE;
+}
+span{
+    padding-left: 450px;
+    text-align: right;
+    color: #08A800;
+}
