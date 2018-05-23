@@ -2,6 +2,13 @@ body{
 	background-size: cover;
 	background-image: url(matthieu-a-262686-unsplash.jpg);
 }
+.jumbotron{
+  background-color: #151417;
+}
+.container{
+  color: white;
+  padding-right: 200px;
+}
 .container1{
   display: flex;
   flex-wrap: row;
