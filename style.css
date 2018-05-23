@@ -16,6 +16,7 @@ body{
 	justify-content: center;
 	width: 1366px;
   	height:400px;
+    background-size: cover;
 }
 @media only screen and (min-width : 1200px) {
   .carousel-caption
