@@ -12,3 +12,9 @@ p,h1{
 	margin-bottom: 10px;
 	border-radius: 100px;
 }
+.card{
+	background-color: #151322;
+}
+.form-group label{
+	color: white;
+}
